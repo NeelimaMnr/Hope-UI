@@ -1,0 +1,32 @@
+.icon-30 {
+    height: 1.875rem;
+    width: 1.875rem;
+}
+.offcanvas{
+    width:20%;   
+    /* background: #ee9a9a; */
+}
+.offcanvas-header{
+    display: flex !important;
+    justify-content: space-evenly;
+    margin-top:2%;
+    padding:1%;
+}
+.brand{
+ text-decoration: none;
+}
+.offcanvas-title{
+    margin-left: 10px;
+    color: black;
+}
+.btn{
+border-radius: 50px;
+}
+.input-group-text{
+    background-color: #fff;
+    border: none;
+}
+.form-control{
+    border: none;
+    width: 100%;
+}
