@@ -76,14 +76,14 @@ main {
 .footer-body .right-panel span {
     margin-right: 5px;
 }
-#announcements-link {
+#announcements{
     position: absolute;
     top: 1px; 
     right: 1px; 
     box-shadow: 2px 2px 5px rgba(180, 154, 154, 0.2); 
     color: white;
 }
-/* .table-responsive  {
+.table-responsive  {
     max-width: 100%;
     overflow-x: auto;
 }
@@ -102,7 +102,9 @@ main {
     white-space: nowrap;
 }
 
+ .header{
+    background-image:url('https://templates.iqonic.design/hope-ui/html/dist/assets/images/dashboard/top-header.png');
+    object-fit: cover;
+    background-repeat: no-repeat;
 
-
-
- */
+ }
